@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../html-and-css-crash-course-master/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Game Hub",
+		"liveServer.settings.port": 5501
+	}
+}
